@@ -96,7 +96,7 @@ try {
 		<div class="col-lg-8">
 			<center>
 				<h1>Todos tus códigos antiguos</h1>
-				<br>
+				<h3><a href="empresa.php">Ir a la página</a></h3>
 				<table border="1" cellpadding="5" bgcolor="lightgrey">
 					<tr>
 						<th>#</th><th>Código</th><th>Fecha compra</th><th>Recompensa</th><th>Activo</th>

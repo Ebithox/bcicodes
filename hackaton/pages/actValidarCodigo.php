@@ -24,7 +24,7 @@ try {
 				header("Location: perfilCliente.php?msg=Codigo canjeado con exito, se han agregado ".$monto." a tu cuenta, visita mas empresas para seguir ganando!");
 			}else
 			{
-				header("Location: perfilCliente.php?msg=Este codigo no existe o ya fue canjeado, ¡Visita mas paginas para seguir ganando");
+				header("Location: perfilCliente.php?msg=Este codigo no existe o ya fue canjeado, ¡Visita mas paginas para seguir ganando!");
 			}
 		}else
 		{

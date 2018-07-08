@@ -56,7 +56,9 @@ try {
                      </tr>
                      <tr>
                          <th>
-                             <center>¿Aún no tienes cuenta?<a href="#">Registrate</a></center>
+                             <center>¿Aún no tienes cuenta?<a href="#">Registrate</a><br>
+                              ¿No eres una empresa?<a href="pages/login.php">Inicia sesión como cliente</a>
+                            </center>
                          </th>
                      </tr>  
                  </table>

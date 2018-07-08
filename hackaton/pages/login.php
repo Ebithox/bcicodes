@@ -55,11 +55,14 @@ try {
                      </tr>
                      <tr>
                          <th>
-                             <center><h3>¿Aún no eres socio?!<a href="#">Registrate aquí</a> para adquirir un montón de beneficios!</h3></center>
+                             <center><h3>¿Aún no eres socio?<br><a href="#">Registrate aquí</a> para adquirir un montón de beneficios</h3>
+                              <br>¿Eres una empresa?<a href="../index.php">Ingresa aquí</a></center>
                          </th>
                      </tr>  
                  </table>
              </form>
+             <br>
+
            </center>
        </div>
    </div>

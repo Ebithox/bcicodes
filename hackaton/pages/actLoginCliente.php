@@ -22,8 +22,7 @@ if(isset($_SESSION["sesionCliente"]))
 
 		}else
 		{
-
-			//header("Location: login.php?msg=Datos incorrectos");
+			header("Location: login.php?msg=Datos incorrectos");
 		}
 	}else
 	{	

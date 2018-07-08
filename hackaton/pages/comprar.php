@@ -144,6 +144,8 @@ try {
 						</tr>
 					</table>
 				</form>
+				<br>
+				<h3><a href="empresa.php">Ir a la página</a></h3>
 			</center>
 		</div>
 		<div class="col-lg-2">
